@@ -7,5 +7,5 @@ Implement supervised machine learning techniques in order to further understandi
 |Isabella Arango Restrepo|Sophia Catalina Giraldo Castrillón|Valentina Yusty Mosquera|
 |---|---|---|
 |<img src="common/images/isabella.jpg" alt="Isabella Arango Restrepo" title="Isabella Arango Restrepo" width="112" height="150"/>|<img src="common/images/sophia.jpg" alt="Sophia Catalina Giraldo Castrillón" title="Sophia Catalina Giraldo Castrillón" width="112" height="150"/>|<img src="common/images/valentina.jpg" alt="Valentina Yusty Mosquera" title="Valentina Yusty Mosquera" width="112" height="150"/>|
-|iarangor1@eafit.edu.co|dcalled1@eafit.edu.co|sgiral55@eafit.edu.co|vyustym@eafit.edu.co|
+|iarangor1@eafit.edu.co|sgiral55@eafit.edu.co|vyustym@eafit.edu.co|
 
